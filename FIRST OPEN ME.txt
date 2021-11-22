@@ -1,6 +1,9 @@
-There are two pages that I created: one that works on a laptop and the other that works on a cell phone.
-If you are using a phone, download the ProfileApplicationForPhone page.
-If you are not using the phone, download the ProfileApplicationForLaptop page.
-goodbye
+There are two pages that I created one that
+works on a laptop and the other that workson
+a cell phone If you are using a phone, 
+download theProfileApplicationForPhone page.
+If you are not using the phone, download
+the ProfileApplicationForLaptop page.
+goodbye :)
 
 Copy Write © 2021 iamcccn
